@@ -9,7 +9,7 @@ set t_Co=256
 " colorscheme honeybadger
 " colorscheme hybrid
 " colorscheme industry
-" colorscheme knuckleduster
+colorscheme knuckleduster
 " colorscheme koehler
 " colorscheme milquetoast
 " colorscheme monokai
@@ -23,7 +23,7 @@ set t_Co=256
 " colorscheme shine
 " colorscheme slate
 " colorscheme solarized
-colorscheme spartan
+" colorscheme spartan
 " colorscheme torte
 " colorscheme understated
 " colorscheme zellner
