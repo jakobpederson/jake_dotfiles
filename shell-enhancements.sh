@@ -49,6 +49,7 @@ alias c='clear'
 alias vom='vim'
 alias vi='vim'
 alias cljs='planck'
+alias runtests='nosetests tests --nologcapture'
 # >>1
 
 # Functions <<1

@@ -9,8 +9,8 @@ set t_Co=256
 " colorscheme honeybadger
 " colorscheme hybrid
 " colorscheme industry
-colorscheme knuckleduster
-" colorscheme koehler
+" colorscheme knuckleduster
+colorscheme koehler
 " colorscheme milquetoast
 " colorscheme monokai
 " colorscheme morning
